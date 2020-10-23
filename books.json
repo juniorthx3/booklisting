@@ -1,0 +1,62 @@
+[
+  {
+   "ID":1,
+  "title": "Eloquent JavaScript, Second Edition",
+  "author": "Marijn Haverbeke",
+  "published": "2014-12-14"
+  },
+  {
+    "ID":2,
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani",
+    "published": "2012-07-01"
+   },
+   {
+    "ID":3,
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer",
+   "published": "2014-02-01"
+   },
+   {
+    "ID":4,
+    "title": "Programming JavaScript Applications",
+    "author": "Eric Elliott",
+    "published": "2014-07-01"
+   },
+   {
+    "ID":5,
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas",
+    "published": "2016-09-03"
+   },
+   {
+    "ID":6,
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "published": "2015-12-27"
+   },
+   {
+    "ID":7,
+    "title": "Git Pocket Guide",
+    "author": "Richard E. Silverman",
+    "published": "2013-08-02"
+   },
+   {
+    "ID":8,
+    "title": "Trade Fiction Paperback",
+    "author": "Glenn Block, et al.",
+    "published": "2014-04-07"
+   },
+   {
+    "ID":9,
+   "title": "JSON Book: Easy Learning of JavaScript Standard Object Notation",
+   "author": "Steven Keller",
+   "published": "2016-12-28"
+   },
+   {
+    "ID":10,
+   "title": "JSON at Work: Practical Data Integration for the Web 1st Edition",
+   "author": "Tom MArrs",
+   "published": "2010-11-18"
+   }
+]
