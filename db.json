@@ -1,5 +1,4 @@
-{
-  "books": [
+[
     {
       "ID":1,
       "title": "Eloquent JavaScript, Second Edition",
@@ -61,4 +60,3 @@
    "published": "2010-11-18"
    }
 ]
-}
