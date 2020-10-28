@@ -1,28 +1,28 @@
 {
   "books": [
-  {
-   "ID":1,
-  "title": "Eloquent JavaScript, Second Edition",
-  "author": "Marijn Haverbeke",
-  "published": "2014-12-14"
-  },
-  {
-    "ID":2,
-    "title": "Learning JavaScript Design Patterns",
-    "author": "Addy Osmani",
-    "published": "2012-07-01"
-   },
-   {
-    "ID":3,
-    "title": "Speaking JavaScript",
-    "author": "Axel Rauschmayer",
-   "published": "2014-02-01"
-   },
-   {
-    "ID":4,
-    "title": "Programming JavaScript Applications",
-    "author": "Eric Elliott",
-    "published": "2014-07-01"
+    {
+      "ID":1,
+      "title": "Eloquent JavaScript, Second Edition",
+      "author": "Marijn Haverbeke",
+     "published": "2014-12-14"
+    },
+    {
+      "ID":2,
+      "title": "Learning JavaScript Design Patterns",
+      "author": "Addy Osmani",
+      "published": "2012-07-01"
+    },
+    {
+      "ID":3,
+      "title": "Speaking JavaScript",
+      "author": "Axel Rauschmayer",
+      "published": "2014-02-01"
+    },
+    {
+      "ID":4,
+      "title": "Programming JavaScript Applications",
+      "author": "Eric Elliott",
+      "published": "2014-07-01"
    },
    {
     "ID":5,
